@@ -355,7 +355,7 @@ body::-webkit-scrollbar-track {
 }
 
 #card{
-
+    margin-right: 40%;
 }
 .card:hover {
     background-color: var(--secondary-bg-color);
